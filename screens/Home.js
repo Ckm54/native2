@@ -1,5 +1,7 @@
 import React from 'react'
-import { Text } from 'react-native'
+import { View, SafeAreaView, FlatList, Text } from 'react-native'
+
+import{ COOLORS, NFTData } from '../constants'
 
 const Home = () => {
   return (
