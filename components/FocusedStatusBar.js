@@ -1,5 +1,5 @@
-import { StatusBar } from 'expo-status-bar'
 import { useIsFocused } from '@react-navigation/core'
+import { StatusBar } from 'expo-status-bar'
 
 const FocusedStatusBar = (props) => {
 

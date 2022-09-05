@@ -19,7 +19,7 @@ const Home = () => {
   }
   return (
     <SafeAreaView style={{flex: 1}}>
-      <FocusedStatusBar background={COLORS.primary} />
+      <FocusedStatusBar backgroundcolor={COLORS.primary} />
 
       <View style={{flex: 1}}>
         <View style={{ zIndex: 0 }}>
